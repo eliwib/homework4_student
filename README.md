@@ -34,5 +34,6 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
+### Elijah Wibbelsman 2361723
 Write your paragraph on the importance of the required plot elements here.
+Linear regressions can be helpful by telling us how much of our data coresponds to the slope of the given line. It can tell us if our data is extremely varried or not. Interpolations allow us to fill in the gaps in
