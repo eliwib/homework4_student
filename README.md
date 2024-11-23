@@ -36,4 +36,4 @@ Then, you can see if you made an error with your git add, commit, or push comman
 
 ### Elijah Wibbelsman 2361723
 Write your paragraph on the importance of the required plot elements here.
-Linear regressions can be helpful by telling us how much of our data coresponds to the slope of the given line. It can tell us if our data is extremely varried or not. Interpolations allow us to fill in the gaps in
+Linear regressions can be helpful by telling us how much of our data coresponds to the slope of the given line. It can tell us if our data is extremely varried or not. Interpolations allow us to fill in the gaps in our data and are often needed in order to make a linear regression. Rolling means are usefull in showing us the 'middle' ground of our data. Rolling means can use interpolations to make a more acurate plot. Combined, these models can help us understand gaps in any data and how it potentially could look.
